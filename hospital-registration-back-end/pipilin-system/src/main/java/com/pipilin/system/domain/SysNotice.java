@@ -10,7 +10,7 @@ import com.pipilin.common.xss.Xss;
 /**
  * 通知公告表 sys_notice
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysNotice extends BaseEntity
 {

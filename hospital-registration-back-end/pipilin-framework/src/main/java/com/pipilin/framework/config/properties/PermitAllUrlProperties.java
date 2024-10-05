@@ -20,7 +20,7 @@ import com.pipilin.common.annotation.Anonymous;
 /**
  * 设置Anonymous注解允许匿名访问的url
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Configuration
 public class PermitAllUrlProperties implements InitializingBean, ApplicationContextAware

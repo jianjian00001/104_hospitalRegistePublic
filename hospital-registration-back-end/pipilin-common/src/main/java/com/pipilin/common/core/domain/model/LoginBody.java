@@ -3,7 +3,7 @@ package com.pipilin.common.core.domain.model;
 /**
  * 用户登录对象
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class LoginBody
 {

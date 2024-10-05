@@ -28,7 +28,7 @@ import java.util.Random;
 /**
  * 注册校验方法
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Component
 public class SysRegisterService

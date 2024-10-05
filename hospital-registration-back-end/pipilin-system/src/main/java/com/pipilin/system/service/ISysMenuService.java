@@ -9,7 +9,7 @@ import com.pipilin.system.domain.vo.RouterVo;
 /**
  * 菜单 业务层
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface ISysMenuService
 {

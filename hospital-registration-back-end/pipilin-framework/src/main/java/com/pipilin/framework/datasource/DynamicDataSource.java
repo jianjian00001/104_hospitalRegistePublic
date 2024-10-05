@@ -7,7 +7,7 @@ import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 /**
  * 动态数据源
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class DynamicDataSource extends AbstractRoutingDataSource
 {

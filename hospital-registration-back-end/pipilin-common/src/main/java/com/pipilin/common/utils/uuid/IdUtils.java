@@ -3,7 +3,7 @@ package com.pipilin.common.utils.uuid;
 /**
  * ID生成器工具类
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class IdUtils
 {

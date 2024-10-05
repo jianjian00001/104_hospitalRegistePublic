@@ -6,7 +6,7 @@ import com.pipilin.common.core.domain.entity.SysRole;
 /**
  * 角色表 数据层
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface SysRoleMapper
 {

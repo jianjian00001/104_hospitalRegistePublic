@@ -3,7 +3,7 @@ package com.pipilin.common.utils.poi;
 /**
  * Excel数据格式处理适配器
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface ExcelHandlerAdapter
 {

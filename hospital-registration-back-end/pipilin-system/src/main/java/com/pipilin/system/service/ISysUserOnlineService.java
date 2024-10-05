@@ -6,7 +6,7 @@ import com.pipilin.system.domain.SysUserOnline;
 /**
  * 在线用户 服务层
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface ISysUserOnlineService
 {

@@ -7,7 +7,7 @@ import com.pipilin.common.core.domain.entity.SysDept;
 /**
  * 部门管理 服务层
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface ISysDeptService
 {

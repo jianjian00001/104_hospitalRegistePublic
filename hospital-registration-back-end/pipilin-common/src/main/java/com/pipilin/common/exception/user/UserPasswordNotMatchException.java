@@ -3,7 +3,7 @@ package com.pipilin.common.exception.user;
 /**
  * 用户密码不正确或不符合规范异常类
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class UserPasswordNotMatchException extends UserException
 {

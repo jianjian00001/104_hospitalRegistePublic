@@ -5,7 +5,7 @@ import io.jsonwebtoken.Claims;
 /**
  * 通用常量信息
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class Constants
 {

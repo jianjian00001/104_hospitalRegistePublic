@@ -3,7 +3,7 @@ package com.pipilin.system.domain;
 /**
  * 当前在线会话
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysUserOnline
 {

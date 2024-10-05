@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1ZQ4y1p7fV/](https://www.bilibili.com/video/BV1ZQ4y1p7fV/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的医院预约挂号小程序(源码+数据库)104
 
@@ -108,7 +108,7 @@
 
 8. hbuilder点击运行-运行到小程序模拟器-微信开发者工具，然后会打开微信开发者工具，小程序页面就展示出来了(如果没有微信小程序开发工具也可以运行到浏览器打开)
 
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+**完整代码收费  可以加qq 1556708905 或者加微信zheng0123Long 咨询**
 
 **接毕业设计和论文**
 

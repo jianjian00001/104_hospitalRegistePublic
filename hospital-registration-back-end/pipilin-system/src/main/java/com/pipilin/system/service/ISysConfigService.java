@@ -7,7 +7,7 @@ import com.pipilin.system.domain.SysConfig;
 /**
  * 参数配置 服务层
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface ISysConfigService
 {

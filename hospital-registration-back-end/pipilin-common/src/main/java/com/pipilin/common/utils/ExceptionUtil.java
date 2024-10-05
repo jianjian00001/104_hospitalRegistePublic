@@ -7,7 +7,7 @@ import org.apache.commons.lang3.exception.ExceptionUtils;
 /**
  * 错误信息处理类。
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class ExceptionUtil
 {

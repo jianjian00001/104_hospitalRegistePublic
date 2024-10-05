@@ -3,7 +3,7 @@ package com.pipilin.common.exception.job;
 /**
  * 计划策略异常
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class TaskException extends Exception
 {

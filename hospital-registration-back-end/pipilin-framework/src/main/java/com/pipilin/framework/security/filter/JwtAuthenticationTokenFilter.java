@@ -20,7 +20,7 @@ import com.pipilin.common.utils.StringUtils;
 /**
  * token过滤器 验证token有效性
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Component
 public class JwtAuthenticationTokenFilter extends OncePerRequestFilter

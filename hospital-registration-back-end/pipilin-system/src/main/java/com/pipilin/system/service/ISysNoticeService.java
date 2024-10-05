@@ -7,7 +7,7 @@ import com.pipilin.system.domain.SysNotice;
 /**
  * 公告 服务层
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface ISysNoticeService
 {

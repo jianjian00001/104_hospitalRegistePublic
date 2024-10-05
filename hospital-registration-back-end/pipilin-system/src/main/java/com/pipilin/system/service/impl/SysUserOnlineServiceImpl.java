@@ -9,7 +9,7 @@ import com.pipilin.common.utils.StringUtils;
 /**
  * 在线用户 服务层处理
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Service
 public class SysUserOnlineServiceImpl implements ISysUserOnlineService

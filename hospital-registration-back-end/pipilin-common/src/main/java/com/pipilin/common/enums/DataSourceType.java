@@ -3,7 +3,7 @@ package com.pipilin.common.enums;
 /**
  * 数据源
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public enum DataSourceType
 {

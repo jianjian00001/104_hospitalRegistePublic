@@ -7,7 +7,7 @@ import com.pipilin.system.domain.SysOperLog;
 /**
  * 操作日志 数据层
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface SysOperLogMapper
 {

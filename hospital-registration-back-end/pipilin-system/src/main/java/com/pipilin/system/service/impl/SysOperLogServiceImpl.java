@@ -11,7 +11,7 @@ import com.pipilin.system.mapper.SysOperLogMapper;
 /**
  * 操作日志 服务层处理
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Service
 public class SysOperLogServiceImpl implements ISysOperLogService

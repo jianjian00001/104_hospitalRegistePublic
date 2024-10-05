@@ -30,7 +30,7 @@ import com.pipilin.system.domain.SysOperLog;
 /**
  * 操作日志记录处理
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Aspect
 @Component

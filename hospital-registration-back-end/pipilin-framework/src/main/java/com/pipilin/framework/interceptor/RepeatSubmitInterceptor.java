@@ -14,7 +14,7 @@ import com.pipilin.common.utils.ServletUtils;
 /**
  * 防止重复提交拦截器
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Component
 public abstract class RepeatSubmitInterceptor implements HandlerInterceptor

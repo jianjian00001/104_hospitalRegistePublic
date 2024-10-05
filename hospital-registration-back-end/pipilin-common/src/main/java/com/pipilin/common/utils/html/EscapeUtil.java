@@ -5,7 +5,7 @@ import com.pipilin.common.utils.StringUtils;
 /**
  * 转义和反转义工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class EscapeUtil
 {

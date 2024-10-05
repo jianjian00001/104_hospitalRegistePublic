@@ -26,7 +26,7 @@ import com.pipilin.common.constant.Constants;
 /**
  * 通用http发送方法
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class HttpUtils
 {

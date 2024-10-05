@@ -3,7 +3,7 @@ package com.pipilin.common.utils.sign;
 /**
  * Base64工具类
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public final class Base64
 {

@@ -8,7 +8,7 @@ import com.pipilin.common.utils.sql.SqlUtil;
 /**
  * 分页工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class PageUtils extends PageHelper
 {

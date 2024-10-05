@@ -30,7 +30,7 @@ import com.pipilin.system.service.ISysUserService;
 /**
  * 登录校验方法
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Component
 public class SysLoginService

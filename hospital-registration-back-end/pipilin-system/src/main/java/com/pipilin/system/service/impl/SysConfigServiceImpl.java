@@ -20,7 +20,7 @@ import com.pipilin.system.service.ISysConfigService;
 /**
  * 参数配置 服务层实现
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Service
 public class SysConfigServiceImpl implements ISysConfigService

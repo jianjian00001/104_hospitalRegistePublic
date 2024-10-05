@@ -6,7 +6,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 /**
  * web容器中进行部署
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class PipilinServletInitializer extends SpringBootServletInitializer
 {

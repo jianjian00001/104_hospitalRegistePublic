@@ -14,7 +14,7 @@ import com.pipilin.system.service.ISysConfigService;
 /**
  * 注册验证
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @RestController
 public class SysRegisterController extends BaseController

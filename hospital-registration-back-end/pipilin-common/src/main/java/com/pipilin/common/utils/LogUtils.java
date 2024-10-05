@@ -3,7 +3,7 @@ package com.pipilin.common.utils;
 /**
  * 处理并记录日志文件
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class LogUtils
 {

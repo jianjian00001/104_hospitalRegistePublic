@@ -5,7 +5,7 @@ import com.pipilin.common.exception.base.BaseException;
 /**
  * 文件信息异常类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class FileException extends BaseException
 {

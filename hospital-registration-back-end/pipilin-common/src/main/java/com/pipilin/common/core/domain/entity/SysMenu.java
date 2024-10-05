@@ -13,7 +13,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 菜单权限表 sys_menu
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysMenu extends BaseEntity
 {

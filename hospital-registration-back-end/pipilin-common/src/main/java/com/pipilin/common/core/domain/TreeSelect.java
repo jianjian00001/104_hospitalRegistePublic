@@ -10,7 +10,7 @@ import com.pipilin.common.core.domain.entity.SysDept;
 /**
  * Treeselect树结构实体类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class TreeSelect implements Serializable
 {

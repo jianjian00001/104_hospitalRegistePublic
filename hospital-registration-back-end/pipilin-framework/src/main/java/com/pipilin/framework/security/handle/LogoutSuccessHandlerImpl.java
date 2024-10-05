@@ -22,7 +22,7 @@ import com.pipilin.framework.manager.factory.AsyncFactory;
 /**
  * 自定义退出处理类 返回成功
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Configuration
 public class LogoutSuccessHandlerImpl implements LogoutSuccessHandler

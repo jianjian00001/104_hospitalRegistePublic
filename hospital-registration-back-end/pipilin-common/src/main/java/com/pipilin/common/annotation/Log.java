@@ -12,7 +12,7 @@ import com.pipilin.common.enums.OperatorType;
 /**
  * 自定义操作日志记录注解
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  *
  */
 @Target({ ElementType.PARAMETER, ElementType.METHOD })

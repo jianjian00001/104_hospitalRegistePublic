@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 /**
  * 自定义xss校验注解
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(value = { ElementType.METHOD, ElementType.FIELD, ElementType.CONSTRUCTOR, ElementType.PARAMETER })

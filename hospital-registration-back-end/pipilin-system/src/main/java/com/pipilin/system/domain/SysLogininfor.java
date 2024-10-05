@@ -9,7 +9,7 @@ import com.pipilin.common.core.domain.BaseEntity;
 /**
  * 系统访问记录表 sys_logininfor
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysLogininfor extends BaseEntity
 {

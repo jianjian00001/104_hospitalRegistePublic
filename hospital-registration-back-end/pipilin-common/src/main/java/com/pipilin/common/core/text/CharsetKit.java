@@ -7,7 +7,7 @@ import com.pipilin.common.utils.StringUtils;
 /**
  * 字符集工具类
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class CharsetKit
 {

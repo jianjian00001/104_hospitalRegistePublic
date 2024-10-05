@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 /**
  * 读取项目相关配置
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Component
 @ConfigurationProperties(prefix = "pipilin")

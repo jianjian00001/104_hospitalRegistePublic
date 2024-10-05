@@ -24,7 +24,7 @@ import com.pipilin.framework.config.ServerConfig;
 /**
  * 通用请求处理
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @RestController
 @RequestMapping("/common")

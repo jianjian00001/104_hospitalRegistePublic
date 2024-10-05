@@ -6,7 +6,7 @@ import com.pipilin.common.utils.DateUtils;
 import com.pipilin.common.utils.StringUtils;
 
 /**
- * @author  931708230@qq.com 序列生成类
+ * @author  1556708905@qq.com 序列生成类
  */
 public class Seq
 {

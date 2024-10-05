@@ -13,7 +13,7 @@ import com.pipilin.common.constant.UserConstants;
 /**
  * 字典数据表 sys_dict_data
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysDictData extends BaseEntity
 {

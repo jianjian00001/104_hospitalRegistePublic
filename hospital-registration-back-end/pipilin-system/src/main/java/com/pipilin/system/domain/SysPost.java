@@ -12,7 +12,7 @@ import com.pipilin.common.core.domain.BaseEntity;
 /**
  * 岗位表 sys_post
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysPost extends BaseEntity
 {

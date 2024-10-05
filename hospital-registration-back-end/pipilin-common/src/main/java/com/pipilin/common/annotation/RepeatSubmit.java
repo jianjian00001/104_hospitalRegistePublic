@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 /**
  * 自定义注解防止表单重复提交
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  *
  */
 @Inherited

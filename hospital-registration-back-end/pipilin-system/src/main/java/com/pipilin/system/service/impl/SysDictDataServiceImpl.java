@@ -12,7 +12,7 @@ import com.pipilin.system.service.ISysDictDataService;
 /**
  * 字典 业务层处理
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Service
 public class SysDictDataServiceImpl implements ISysDictDataService

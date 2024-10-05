@@ -27,7 +27,7 @@ import com.pipilin.common.utils.StringUtils;
 /**
  * Mybatis支持*匹配扫描包
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Configuration
 public class MyBatisConfig

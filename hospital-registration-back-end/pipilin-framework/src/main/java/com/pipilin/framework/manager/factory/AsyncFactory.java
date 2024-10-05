@@ -19,7 +19,7 @@ import eu.bitwalker.useragentutils.UserAgent;
 /**
  * 异步工厂（产生任务用）
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class AsyncFactory
 {

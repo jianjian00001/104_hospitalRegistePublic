@@ -6,7 +6,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * 文件类型工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class FileTypeUtils
 {

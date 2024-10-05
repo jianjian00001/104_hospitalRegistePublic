@@ -38,7 +38,7 @@ import com.pipilin.system.service.ISysUserService;
 /**
  * 用户信息
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @RestController
 @RequestMapping("/system/user")

@@ -12,7 +12,7 @@ import com.pipilin.common.enums.LimitType;
 /**
  * 限流注解
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

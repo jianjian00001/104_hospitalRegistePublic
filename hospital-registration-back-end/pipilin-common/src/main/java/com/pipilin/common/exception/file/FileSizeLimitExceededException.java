@@ -3,7 +3,7 @@ package com.pipilin.common.exception.file;
 /**
  * 文件名大小限制异常类
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class FileSizeLimitExceededException extends FileException
 {

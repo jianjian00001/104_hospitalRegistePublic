@@ -11,7 +11,7 @@ import com.pipilin.common.core.domain.BaseEntity;
 /**
  * 参数配置表 sys_config
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysConfig extends BaseEntity
 {

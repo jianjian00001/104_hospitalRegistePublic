@@ -17,7 +17,7 @@ import com.pipilin.common.annotation.Excels;
 /**
  * 用户对象 sys_user
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysUser extends BaseEntity
 {

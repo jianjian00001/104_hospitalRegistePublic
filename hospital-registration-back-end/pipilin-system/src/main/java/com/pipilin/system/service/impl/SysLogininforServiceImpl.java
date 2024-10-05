@@ -10,7 +10,7 @@ import com.pipilin.system.service.ISysLogininforService;
 /**
  * 系统访问日志情况信息 服务层处理
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Service
 public class SysLogininforServiceImpl implements ISysLogininforService

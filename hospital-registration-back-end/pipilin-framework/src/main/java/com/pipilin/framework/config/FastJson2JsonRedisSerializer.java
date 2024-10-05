@@ -10,7 +10,7 @@ import com.alibaba.fastjson2.JSONWriter;
 /**
  * Redis使用FastJson序列化
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class FastJson2JsonRedisSerializer<T> implements RedisSerializer<T>
 {

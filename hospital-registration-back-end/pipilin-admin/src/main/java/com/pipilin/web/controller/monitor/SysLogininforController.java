@@ -23,7 +23,7 @@ import com.pipilin.system.service.ISysLogininforService;
 /**
  * 系统访问记录
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @RestController
 @RequestMapping("/monitor/logininfor")

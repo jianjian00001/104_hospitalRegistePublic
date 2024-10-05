@@ -3,7 +3,7 @@ package com.pipilin.framework.web.domain.server;
 /**
  * 系统相关信息
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class Sys
 {

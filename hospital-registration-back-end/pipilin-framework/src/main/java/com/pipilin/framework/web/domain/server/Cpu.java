@@ -5,7 +5,7 @@ import com.pipilin.common.utils.Arith;
 /**
  * CPU相关信息
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class Cpu
 {

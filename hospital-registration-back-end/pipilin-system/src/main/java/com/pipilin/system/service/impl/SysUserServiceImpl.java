@@ -34,7 +34,7 @@ import com.pipilin.system.service.ISysUserService;
 /**
  * 用户 业务层处理
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Service
 public class SysUserServiceImpl implements ISysUserService

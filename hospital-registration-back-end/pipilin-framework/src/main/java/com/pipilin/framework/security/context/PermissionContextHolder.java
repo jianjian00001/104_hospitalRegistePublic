@@ -7,7 +7,7 @@ import com.pipilin.common.core.text.Convert;
 /**
  * 权限信息
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class PermissionContextHolder
 {

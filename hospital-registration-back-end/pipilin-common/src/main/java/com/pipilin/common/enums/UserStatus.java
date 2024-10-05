@@ -3,7 +3,7 @@ package com.pipilin.common.enums;
 /**
  * 用户状态
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public enum UserStatus
 {

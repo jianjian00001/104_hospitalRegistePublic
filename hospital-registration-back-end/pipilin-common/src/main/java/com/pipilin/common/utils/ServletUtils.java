@@ -21,7 +21,7 @@ import com.pipilin.common.constant.Constants;
 /**
  * 客户端工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class ServletUtils
 {

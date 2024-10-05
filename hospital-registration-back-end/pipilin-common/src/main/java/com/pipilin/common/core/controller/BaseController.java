@@ -25,7 +25,7 @@ import com.pipilin.common.utils.sql.SqlUtil;
 /**
  * web层通用数据处理
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class BaseController
 {

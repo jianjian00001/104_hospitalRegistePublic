@@ -23,7 +23,7 @@ import org.apache.commons.io.FilenameUtils;
 /**
  * 文件处理工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class FileUtils
 {

@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 /**
  * 自定义xss校验注解实现
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class XssValidator implements ConstraintValidator<Xss, String>
 {

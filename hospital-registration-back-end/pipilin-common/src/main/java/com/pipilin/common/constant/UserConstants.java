@@ -3,7 +3,7 @@ package com.pipilin.common.constant;
 /**
  * 用户常量信息
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class UserConstants
 {

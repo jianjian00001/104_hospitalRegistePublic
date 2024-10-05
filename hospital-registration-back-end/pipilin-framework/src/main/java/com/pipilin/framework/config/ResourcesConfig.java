@@ -19,7 +19,7 @@ import com.pipilin.common.constant.Constants;
 /**
  * 通用配置
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Configuration
 public class ResourcesConfig implements WebMvcConfigurer

@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 /**
  * HTML过滤器，用于去除XSS漏洞隐患。
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public final class HTMLFilter
 {

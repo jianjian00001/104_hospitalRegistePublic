@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Md5加密方法
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class Md5Utils
 {

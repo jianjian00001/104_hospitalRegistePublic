@@ -9,7 +9,7 @@ import com.pipilin.common.core.domain.BaseEntity;
 /**
  * 操作日志记录表 oper_log
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysOperLog extends BaseEntity
 {

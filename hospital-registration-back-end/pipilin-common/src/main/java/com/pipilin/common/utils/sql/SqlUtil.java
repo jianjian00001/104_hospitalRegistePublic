@@ -6,7 +6,7 @@ import com.pipilin.common.exception.UtilException;
 /**
  * sql操作工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SqlUtil
 {

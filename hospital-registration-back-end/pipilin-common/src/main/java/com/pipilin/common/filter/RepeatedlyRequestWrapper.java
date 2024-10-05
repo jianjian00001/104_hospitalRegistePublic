@@ -16,7 +16,7 @@ import com.pipilin.common.constant.Constants;
 /**
  * 构建可重复读取inputStream的request
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class RepeatedlyRequestWrapper extends HttpServletRequestWrapper
 {

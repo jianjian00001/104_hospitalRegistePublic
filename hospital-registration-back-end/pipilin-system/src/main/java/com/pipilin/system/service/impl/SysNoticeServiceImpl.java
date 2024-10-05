@@ -10,7 +10,7 @@ import com.pipilin.system.service.ISysNoticeService;
 /**
  * 公告 服务层实现
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Service
 public class SysNoticeServiceImpl implements ISysNoticeService

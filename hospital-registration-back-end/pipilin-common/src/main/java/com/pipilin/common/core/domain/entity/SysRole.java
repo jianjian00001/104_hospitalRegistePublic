@@ -14,7 +14,7 @@ import com.pipilin.common.annotation.Excel.ColumnType;
 /**
  * 角色表 sys_role
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysRole extends BaseEntity
 {

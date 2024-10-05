@@ -9,7 +9,7 @@ import com.pipilin.common.utils.spring.SpringUtils;
 /**
  * 异步任务管理器
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class AsyncManager
 {

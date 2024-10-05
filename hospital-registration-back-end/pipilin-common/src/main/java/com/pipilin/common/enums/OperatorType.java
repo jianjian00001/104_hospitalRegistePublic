@@ -3,7 +3,7 @@ package com.pipilin.common.enums;
 /**
  * 操作人类别
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public enum OperatorType
 {

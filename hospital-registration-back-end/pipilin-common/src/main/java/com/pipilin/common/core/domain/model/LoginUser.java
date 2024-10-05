@@ -10,7 +10,7 @@ import com.pipilin.common.core.domain.entity.SysUser;
 /**
  * 登录用户身份权限
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class LoginUser implements UserDetails
 {

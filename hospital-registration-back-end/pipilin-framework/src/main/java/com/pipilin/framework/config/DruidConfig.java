@@ -28,7 +28,7 @@ import com.pipilin.common.utils.spring.SpringUtils;
 /**
  * druid 配置多数据源
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Configuration
 public class DruidConfig

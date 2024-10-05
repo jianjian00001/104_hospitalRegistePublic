@@ -25,7 +25,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 /**
  * Swagger2的接口配置
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Configuration
 public class SwaggerConfig

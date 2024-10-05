@@ -6,7 +6,7 @@ import com.pipilin.common.constant.HttpStatus;
 /**
  * 响应信息主体
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class R<T> implements Serializable
 {

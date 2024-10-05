@@ -14,7 +14,7 @@ import com.pipilin.common.constant.Constants;
 /**
  * 字符串工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class StringUtils extends org.apache.commons.lang3.StringUtils
 {

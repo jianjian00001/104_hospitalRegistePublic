@@ -23,7 +23,7 @@ import com.pipilin.common.utils.ip.IpUtils;
 /**
  * 限流处理
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Aspect
 @Component

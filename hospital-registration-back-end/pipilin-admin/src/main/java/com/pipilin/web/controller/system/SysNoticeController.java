@@ -23,7 +23,7 @@ import com.pipilin.system.service.ISysNoticeService;
 /**
  * 公告 信息操作处理
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @RestController
 @RequestMapping("/system/notice")

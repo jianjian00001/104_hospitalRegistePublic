@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 /**
  * 启动程序
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @SpringBootApplication(exclude = { DataSourceAutoConfiguration.class })
 public class PipilinApplication

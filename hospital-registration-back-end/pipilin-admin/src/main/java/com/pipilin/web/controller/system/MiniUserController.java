@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * 用户信息
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @RestController
 @RequestMapping("/mini/user")

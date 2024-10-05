@@ -19,7 +19,7 @@ import com.pipilin.common.exception.file.InvalidExtensionException;
 /**
  * 文件上传工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class FileUploadUtils
 {

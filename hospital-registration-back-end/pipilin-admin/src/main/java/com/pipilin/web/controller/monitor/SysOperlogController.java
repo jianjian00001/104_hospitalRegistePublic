@@ -22,7 +22,7 @@ import com.pipilin.system.service.ISysOperLogService;
 /**
  * 操作日志记录
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @RestController
 @RequestMapping("/monitor/operlog")

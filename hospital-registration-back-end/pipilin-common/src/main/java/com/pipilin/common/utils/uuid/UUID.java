@@ -10,7 +10,7 @@ import com.pipilin.common.exception.UtilException;
 /**
  * 提供通用唯一识别码（universally unique identifier）（UUID）实现
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public final class UUID implements java.io.Serializable, Comparable<UUID>
 {

@@ -7,7 +7,7 @@ import com.pipilin.common.core.domain.entity.SysDictType;
 /**
  * 字典 业务层
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface ISysDictTypeService
 {

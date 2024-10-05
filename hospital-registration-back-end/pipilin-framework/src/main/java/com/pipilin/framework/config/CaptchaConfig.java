@@ -10,7 +10,7 @@ import static com.google.code.kaptcha.Constants.*;
 /**
  * 验证码配置
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Configuration
 public class CaptchaConfig

@@ -7,7 +7,7 @@ import com.pipilin.system.domain.SysRoleMenu;
 /**
  * 角色与菜单关联表 数据层
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface SysRoleMenuMapper
 {

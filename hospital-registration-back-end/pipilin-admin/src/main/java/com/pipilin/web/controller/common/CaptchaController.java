@@ -23,7 +23,7 @@ import com.pipilin.system.service.ISysConfigService;
 /**
  * 验证码操作处理
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @RestController
 public class CaptchaController

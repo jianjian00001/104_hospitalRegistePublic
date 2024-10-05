@@ -3,7 +3,7 @@ package com.pipilin.common.exception.user;
 /**
  * 验证码失效异常类
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class CaptchaExpireException extends UserException
 {

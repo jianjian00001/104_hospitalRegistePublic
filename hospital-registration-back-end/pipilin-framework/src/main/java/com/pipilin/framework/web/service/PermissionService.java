@@ -12,7 +12,7 @@ import com.pipilin.framework.security.context.PermissionContextHolder;
 /**
  * pipilin首创 自定义权限实现，ss取自SpringSecurity首字母
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Service("ss")
 public class PermissionService

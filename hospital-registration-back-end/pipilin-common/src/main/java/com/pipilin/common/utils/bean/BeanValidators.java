@@ -8,7 +8,7 @@ import javax.validation.Validator;
 /**
  * bean对象属性验证
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class BeanValidators
 {

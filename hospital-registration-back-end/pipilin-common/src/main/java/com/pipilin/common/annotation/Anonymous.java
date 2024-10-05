@@ -9,7 +9,7 @@ import java.lang.annotation.Target;
 /**
  * 匿名访问不鉴权注解
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Target({ ElementType.METHOD, ElementType.TYPE })
 @Retention(RetentionPolicy.RUNTIME)

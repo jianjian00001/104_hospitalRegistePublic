@@ -7,7 +7,7 @@ import com.pipilin.common.utils.spring.SpringUtils;
 /**
  * 获取i18n资源文件
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class MessageUtils
 {

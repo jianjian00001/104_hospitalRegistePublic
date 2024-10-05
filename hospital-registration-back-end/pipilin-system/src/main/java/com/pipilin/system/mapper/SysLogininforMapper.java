@@ -7,7 +7,7 @@ import com.pipilin.system.domain.SysLogininfor;
 /**
  * 系统访问日志情况信息 数据层
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public interface SysLogininforMapper
 {

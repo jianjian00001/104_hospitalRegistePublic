@@ -3,7 +3,7 @@ package com.pipilin.common.exception;
 /**
  * 演示模式异常
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class DemoModeException extends RuntimeException
 {

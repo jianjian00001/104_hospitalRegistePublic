@@ -14,7 +14,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 部门表 sys_dept
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysDept extends BaseEntity
 {

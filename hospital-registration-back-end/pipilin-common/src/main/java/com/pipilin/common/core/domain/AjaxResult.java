@@ -7,7 +7,7 @@ import com.pipilin.common.utils.StringUtils;
 /**
  * 操作消息提醒
  * 
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class AjaxResult extends HashMap<String, Object>
 {

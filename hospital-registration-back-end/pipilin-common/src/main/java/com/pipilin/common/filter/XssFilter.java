@@ -18,7 +18,7 @@ import com.pipilin.common.utils.StringUtils;
 /**
  * 防止XSS攻击的过滤器
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class XssFilter implements Filter
 {

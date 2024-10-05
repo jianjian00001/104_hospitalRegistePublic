@@ -16,7 +16,7 @@ import com.pipilin.common.utils.StringUtils;
 /**
  * 认证失败处理类 返回未授权
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 @Component
 public class AuthenticationEntryPointImpl implements AuthenticationEntryPoint, Serializable

@@ -13,7 +13,7 @@ import com.pipilin.common.annotation.Excel.ColumnType;
 /**
  * 字典类型表 sys_dict_type
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class SysDictType extends BaseEntity
 {

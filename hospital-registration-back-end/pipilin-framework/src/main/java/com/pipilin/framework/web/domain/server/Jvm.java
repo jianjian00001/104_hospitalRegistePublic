@@ -7,7 +7,7 @@ import com.pipilin.common.utils.DateUtils;
 /**
  * JVM相关信息
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class Jvm
 {

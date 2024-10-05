@@ -11,7 +11,7 @@ import com.pipilin.common.constant.CacheConstants;
 /**
  * 字典工具类
  *
- * @author  931708230@qq.com
+ * @author  1556708905@qq.com
  */
 public class DictUtils
 {
